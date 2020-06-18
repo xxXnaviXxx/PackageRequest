@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhV2yRoKU9tdtUo/Cy+WnmqJjm8zr0mce1W7Qa9uoBDSUzZjwdM91ypTHXW0ZlEgdZoLh2osnSayBIcRwoU0EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\PackageRequest\\PackageRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
